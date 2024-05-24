@@ -27,10 +27,10 @@ I'm a Student and Developer !<br>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bennet232002&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bennet232002&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bennet232002&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Utu232002&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Utu232002&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utu232002&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bennet232002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Utu232002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
