@@ -19,6 +19,16 @@ I'm a Student and Developer !<br>
 ## 🌐 Social Links
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/1062079909243134083) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshsinghrajput23) 
+
+
+<!--
+<p align="center">
+  <a href="http://twitter.com/[name]">
+    <img src="https://img.shields.io/badge/follow-%40[name]%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Utu's Twitter"/>
+  </a>
+-->
+
+
 <br>
 <a href="https://github.com/Utu232002?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Utu232002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
