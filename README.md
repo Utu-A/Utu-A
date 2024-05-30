@@ -19,7 +19,13 @@ I'm a Student and Developer !<br>
 ## 🌐 Social Links
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/1062079909243134083) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshsinghrajput23) 
-[![](https://visitcount.itsvg.in/api?id=Bennet232002&icon=6&color=5)](https://visitcount.itsvg.in)
+<br>
+<a href="https://github.com/Utu232002?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Utu232002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Utu23002tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Utu232002?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</br>  
+[![](https://visitcount.itsvg.in/api?id=Utu232002&icon=6&color=5)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
