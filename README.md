@@ -20,11 +20,11 @@ I'm a Student and Developer !<br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/1062079909243134083) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshsinghrajput23) 
 <br>
-<a href="https://github.com/Utu232002?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Utu232002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Utu23002tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Utu232002?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-[![](https://visitcount.itsvg.in/api?id=Utu232002&icon=6&color=5)](https://visitcount.itsvg.in)
+<a href="https://github.com/Utu3423?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Utu3423?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Utu3423tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Utu3423?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+[![](https://visitcount.itsvg.in/api?id=Utu3423&icon=6&color=5)](https://visitcount.itsvg.in)
 <!--
 <p align="center">
   <a href="http://twitter.com/[name]">
@@ -37,14 +37,14 @@ I'm a Student and Developer !<br>
 
 
 # 📊 GitHub Stats:
-<a href="https://github.com/Utu232002/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Utu232002" />
+<a href="https://github.com/Utu3423/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Utu3423" />
 </a>
 <br></br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Utu232002&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utu232002&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Utu3423&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utu3423&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Utu232002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Utu3423&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
