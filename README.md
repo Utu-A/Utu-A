@@ -21,9 +21,9 @@ I'm a Student and Developer !<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshsinghrajput23) 
 <br>
 <a href="https://github.com/Utu3423?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Utu3423?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Utu3423tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Utu3423?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Utu-A?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Utu-Atab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Utu-A?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 [![](https://visitcount.itsvg.in/api?id=Utu3423&icon=6&color=5)](https://visitcount.itsvg.in)
 <!--
 <p align="center">
@@ -37,8 +37,8 @@ I'm a Student and Developer !<br>
 
 
 # 📊 GitHub Stats:
-<a href="https://github.com/Utu3423/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Utu3423" />
+<a href="https://github.com/Utu-A/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Utu-A" />
 </a>
 <br></br>
 
