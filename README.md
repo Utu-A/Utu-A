@@ -20,11 +20,11 @@ I'm a Student and Developer !<br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/1062079909243134083) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshsinghrajput23) 
 <br>
-<a href="https://github.com/Utu3423?tab=followers">
+<a href="https://github.com/Utu-A?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Utu-A?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Utu-Atab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Utu-A?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-[![](https://visitcount.itsvg.in/api?id=Utu3423&icon=6&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Utu-A&icon=6&color=5)](https://visitcount.itsvg.in)
 <!--
 <p align="center">
   <a href="http://twitter.com/[name]">
@@ -42,9 +42,9 @@ I'm a Student and Developer !<br>
 </a>
 <br></br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Utu3423&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utu3423&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Utu-A&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utu-A&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Utu3423&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Utu-A&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
