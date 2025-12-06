@@ -54,8 +54,6 @@ I'm a Student and Developer !<br>
 
 <a href="https://github.com/Utu-A?tab=followers">
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Utu-A?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/Utu-Atab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Utu-A?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 [![](https://visitcount.itsvg.in/api?id=Utu-A&icon=6&color=5)](https://visitcount.itsvg.in)
 
@@ -86,10 +84,7 @@ I'm a Student and Developer !<br>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
 # 📊 GitHub Stats:
-<a href="https://github.com/Utu-A/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Utu-A" />
-</a>
-<br></br>
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Utu-A&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utu-A&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
