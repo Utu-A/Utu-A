@@ -1,9 +1,5 @@
 <div align="center">Utkarsh Singh</div>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70706&center=true&vCenter=true&width=500&lines=Quantum+Mechanics;Developer;Rocket+Engineer;Cybersecurity" alt="Typing SVG" /></a>
-</p>
-
+</br>
 <!-- ### 📊 WakaTime
 
 <picture>
@@ -112,3 +108,6 @@ I'm a Student and Developer !<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Utu-A&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-season-theme.svg" width="800" height="400" alt="GitHub 3D Contribution Graph"/>
+</p>
