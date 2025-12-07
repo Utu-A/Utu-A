@@ -109,5 +109,5 @@ I'm a Student and Developer !<br>
 ![](https://github-profile-trophy.vercel.app/?username=Utu-A&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-season-theme.svg" width="800" height="400" alt="GitHub 3D Contribution Graph"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" height="400" alt="GitHub 3D Contribution Graph"/>
 </p>
